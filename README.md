@@ -14,6 +14,7 @@ A list of resources for learning Angular and other related technologies
 + [Essential Angular](https://leanpub.com/essential_angular)
 + [Angular Router](https://leanpub.com/router)
 + [Rxjs 5 ultimate](https://www.gitbook.com/book/chrisnoring/rxjs-5-ultimate/details)
++ [Typescript handbook](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
 ## Online courses
 + [Ultimate Angular](https://ultimateangular.com/)
